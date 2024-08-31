@@ -1,4 +1,4 @@
-# Smart Contract Crate
+# Dumb Contract Crate
 
 A versatile Rust crate for writing, testing, and deploying smart contracts across various blockchain platforms, including Ethereum, Solana, and Binance Smart Chain (BSC). This crate is designed with a focus on safety, efficiency, and ease of use, making it an excellent choice for both beginners and experienced developers.
 
