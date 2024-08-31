@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["Zachary Kleckner"]
 description = "A Rust crate for writing, testing, and deploying smart contracts on various blockchain platforms."
 license = "MIT"
-repository = "https://github.com/goldenhippo58/smart_contract_crate"
+repository = "https://github.com/goldenhippo58/dumb_contract.git"
 
 [dependencies]
 serde = { version = "1.0", features = ["derive"] }
